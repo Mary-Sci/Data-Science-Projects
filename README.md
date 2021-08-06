@@ -11,3 +11,9 @@ Data analysis projects
 
 005_Project_House_Price_Prediction
 
+006_Project_Horse_Protector_Prediction
+
+007_Project_Hitters_Prediction
+
+
+
