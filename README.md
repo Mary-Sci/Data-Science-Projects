@@ -15,5 +15,7 @@ Data analysis projects
 
 007_Project_Hitters_Prediction
 
+008_Project_Demand_Forecasting_LightGBM
+
 
 
